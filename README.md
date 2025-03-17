@@ -53,19 +53,7 @@ Follow these steps to set up the project locally:
    cd student-resume-enhancer
 ````
 
-## Contributors
 
-We'd like to thank the following contributors for their efforts in building this project:
-
-| Contributor                                              | GitHub Profile                             |
-| -------------------------------------------------------- | ------------------------------------------ |
-| ![Venusai](https://github.com/Venu005.png?size=50)       | [Venusai](https://github.com/Venu005)      |
-| ![Kushal](https://github.com/nagakushal786.png?size=50)  | [Kushal](https://github.com/nagakushal786) |
-| ![Shaik Aftab](https://github.com/Aftab3008.png?size=50) | [Aftab](https://github.com/Aftab3008)      |
-
-bun dev
-
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
